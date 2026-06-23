@@ -2,6 +2,8 @@
 
 An Excel-based cardiovascular disease risk analysis project that uses Power Query, Power Pivot, KPI measures, and interactive dashboard visuals to identify high-risk patient groups and support healthcare decision-making.
 
+**Interactive Dashboard:** [Download Excel workbook](https://docs.google.com/spreadsheets/d/1Dxzx4OTfCwiJKJeecTbdBX2X5QMeb5p-MUhdOZaQJB4/export?format=xlsx)
+
 ![CVD Dashboard Home](screenshots/CVD_Dboard_Homepg.png)
 
 ## Business Problem
@@ -63,10 +65,6 @@ This limits proactive care, efficient resource allocation, and data-driven insur
 - **Insurance partners:** Apply risk-based segmentation to adjust premiums and introduce wellness incentives
 
 ![CVD Dashboard Insights](screenshots/CVD_Dboard_Insights.png)
-
-## Deliverable
-
-- **Interactive Dashboard:** [Download Excel workbook](https://docs.google.com/spreadsheets/d/125KFqe5nGZ3CQBKdqDMTxzGhTQ08sB5M/export?format=xlsx&ouid=118395754396243334299&rtpof=true&sd=true)
 
 ## Skills Demonstrated
 
